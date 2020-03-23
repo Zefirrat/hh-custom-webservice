@@ -5,7 +5,9 @@ Project that uses the headhunter api for getting and storing some information fo
 ### Quick start
 
 > $ cd VacanciesService
+
 > $ docker build -t vacanciesservice .
+
 > $ docker run -d -p 8080:80 --name myapp vacanciesservice
 
 ### Explaining
