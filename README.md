@@ -6,7 +6,7 @@ Project that uses the headhunter api for getting and storing some information fo
 
 > $ cd VacanciesService
 
-> $ msbuild VacanciesService.sln
+> $ dotnet build VacanciesService.sln
 
 > $ dotnet VacanciesService\bin\Debug\netcoreapp3.1\VacanciesService.dll
 
