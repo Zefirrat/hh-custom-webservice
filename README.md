@@ -23,4 +23,4 @@ To search on this loaded vacancies do the query https://localhost:5001/ActualVac
 Where *SEARCH_QUERY* is the query that contains in names of vacancies. NO REGEX.
 
 #### PS
-There might be the docker host realisation, but my PC does not support Virtualisation in BIOS, but it not so dificult I thing, like two commands *docker build* and *docker run* (added Dockerfile to the root folder as Example)
+There might be the docker host realisation, but my PC does not support Virtualisation in BIOS, but it not so dificult I think, like two commands *docker build* and *docker run* (added Dockerfile to the root folder as Example)
