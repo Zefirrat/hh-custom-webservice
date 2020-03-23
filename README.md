@@ -1,5 +1,14 @@
-# hh-custom-webservice
+# Astral test (HeadHunter WebService)
+### Description
 Project that uses the headhunter api for getting and storing some information for some reasons
+
+### Quick start
+
+$ cd VacanciesService
+$ docker build -t vacanciesservice .
+$ docker run -d -p 8080:80 --name myapp vacanciesservice
+
+### Explaining
 
 After run main solution VacanciesService test endpoint in https://localhost:5001/ActualVacancies
 
