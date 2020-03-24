@@ -12,6 +12,10 @@ Project that uses the headhunter api for getting and storing some information fo
 
 Navigate with broser to https://localhost:5001/ActualVacancies
 
+OR
+
+Navigate to https://localhost:5001/index.html to see the **Swagger** info
+
 ### Explaining
 
 After run main solution VacanciesService test endpoint in https://localhost:5001/ActualVacancies
